@@ -1,0 +1,46 @@
+{
+  "versao": "v1",
+  "modelo_salvo": "Regressão Linear",
+  "data_treinamento": "2026-07-19",
+  "treinado_com": "100% da base (treino + teste) - retreino final feito na Fase 6a, após a avaliação honesta da Fase 5",
+  "features_utilizadas": [
+    "bedrooms",
+    "bathrooms",
+    "sqft_living",
+    "sqft_lot",
+    "floors",
+    "waterfront",
+    "view",
+    "condition",
+    "grade",
+    "sqft_basement",
+    "idade_imovel",
+    "foi_reformado",
+    "lat",
+    "long",
+    "zipcode_faixa_faixa_1",
+    "zipcode_faixa_faixa_2",
+    "zipcode_faixa_faixa_3",
+    "zipcode_faixa_faixa_4",
+    "zipcode_faixa_faixa_5",
+    "zipcode_faixa_faixa_6",
+    "zipcode_faixa_faixa_7",
+    "zipcode_faixa_faixa_8",
+    "zipcode_faixa_faixa_9"
+  ],
+  "scaler": "StandardScaler reajustado com 100% da base para o modelo final salvo (scaler_final da Fase 6a). As métricas abaixo, porém, vêm do modelo avaliado apenas no split 80/20 (Fase 5), pois é a única forma honesta de estimar o erro do modelo em dados nunca vistos.",
+  "metricas_modelo_salvo": {
+    "treino": {
+      "MAE": 100395.27157191963,
+      "MSE": 28103058457.761566,
+      "RMSE": 167639.66850886328,
+      "R2": 0.7797609682874294
+    },
+    "teste": {
+      "MAE": 103731.02359434038,
+      "MSE": 34046266529.444008,
+      "RMSE": 184516.30423744133,
+      "R2": 0.7751622648403552
+    }
+  }
+}
