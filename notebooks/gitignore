@@ -1,0 +1,13 @@
+ .gitignore
+# Ignorar arquivos de sistema e cache
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignorar pastas de ambiente virtual e datasets comuns
+venv/
+env/
+*.csv
+
+# Ignorar chaves de API e credenciais
+.env
