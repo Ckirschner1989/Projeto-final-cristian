@@ -44,5 +44,5 @@ jupyter notebook notebooks/dataview.ipynb
 Para uma possivel melhoria poderiamos utilizar a base criada no item 6a, ao qual o modelo foi treinado em 100% dos dados e não foi guardado uma cópia deste modelo
 ## Vídeo de demonstração 
 Link de acesso:
-https://1drv.ms/v/c/4f9dd231d15cec72/IQD3hKbGifhvTaO2kEEJ1NABATKkvIyFlpkEnQf3fojtIHk?e=hkyOfU
-https://drive.google.com/file/d/1qnqNieCOxI-0711jQO2CX43EkWaR06xu/view?usp=drive_link
+https://1drv.ms/v/c/4f9dd231d15cec72/IQDFi0NsufR0SqIQpbCfJG42AU240RJVQavpVt4t2f2ugA4?e=9cUZG5
+https://drive.google.com/file/d/1EAjeQUxdg1gGpob53HmZ63aT4P7-hMMG/view?usp=sharing
